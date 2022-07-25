@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+body{background: url("../images/fondo.png");
+background-size: cover;
+background-attachment: fixed;
+opacity: 60%;
+}
